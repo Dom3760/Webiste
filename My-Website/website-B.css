@@ -44,8 +44,73 @@ body
     background-color: rgb(174, 174, 174);
 }
 
+h2
+{
+    width: 200px;
+    height: 10px;
+}
 
-.title
+.para
+{
+    border: 1px solid black;
+    width: 75%;
+    height: 300px;
+    margin: 50px auto;
+    padding: 10px 20px;
+    border-radius: 25px ;
+    background-color: #FFFFFF;
+}
+
+.pic
+{
+    width: 225px;
+    height: 225px;
+    float: right;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.text
+{
+    display: inline-block;
+    width: 78%;
+    font-size: 20px;
+}
+
+.Title-1 
+{
+text-align: center;
+color: white;
+font-size: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .title
 {
 font-size: 60px;
 color: white;
@@ -69,7 +134,7 @@ p
 {
     color: white;
     font-size: 20px;
-    padding: 0px 20px;
+    padding-left: 100px;
 }
 .pic
 {
@@ -80,10 +145,13 @@ p
 
 .para
 {
-    width: 1400px;
-    height: 220px;
+    width: 1500px;
+    height: 300px;
     display: flex;
     justify-content: right;
+    border: 1px solid black;
+    margin: 0px auto;
+    border-radius: 25px;
 }
 
 #para-2
@@ -94,5 +162,5 @@ p
 h1
 {
     color: white;
-}
+} */
 

@@ -66,8 +66,8 @@ margin: 100px auto;
 .loc, .pic, .about
 {
  border: 1px solid white;
- height: 300px;
- width: 300px;
+ height: 500px;
+ width: 500px;
  border-radius: 25px;
  background-color: rgb(61, 61, 61);
  padding: 0px 10px;
@@ -75,8 +75,8 @@ margin: 100px auto;
 
 .japan, .kaizin, .eve
 {
-    height: 200px;
-    width: 300px;
+    height: 400px;
+    width: 500px;
     border: 1px solid white;
 }
 
@@ -84,9 +84,9 @@ margin: 100px auto;
 {
     display: flex;
     justify-content: space-between;
-    height: 325px;
-    width: 90%;
-    margin: 0px auto;
+    height: 600px;
+    width: 100%;
+    margin: 100px auto; 
 }
 
 .txt
